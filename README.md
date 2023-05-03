@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides plans and instructions for building your own headphones. The design is optimized for use with virtual and mixed reality, but works also great for normal listening to music. The headphones are 3D printable and therefore easy to build.
+This project provides plans and instructions for building diy headphones. The design is optimized for use with virtual and mixed reality, but works also great for normal listening to music. The headphones are 3D printable and therefore easy to build.
 
 ## Background
 
