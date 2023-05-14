@@ -1,8 +1,10 @@
 # DIY ultralight open headphones
 
+
 ## Overview
 
-This project provides plans and instructions for building your own headphones. The design is optimized for use with virtual and mixed reality, but works also great for normal listening to music. The headphones are 3D printable and therefore easy to build.
+This repository is a contribution to the AES-paper "Ultralight circumaural headphone, which is open acces and can be found at http://www.aes.org/e-lib/browse.cfm?elib=22075
+It provides plans and instructions for building your own headphones. The design is optimized for use with virtual and mixed reality, but also works great for normal listening to music. The headphones are 3D printable and therefore easy to build and also repair.
 
 ## Background
 
