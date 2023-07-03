@@ -1,15 +1,22 @@
-# DIY ultralight open headphones
+# mush:room - DIY ultralight open headphones
 
 
 ## Overview
 
-This repository is a contribution to the AES-paper "Ultralight circumaural headphone, which is open acces and can be found at http://www.aes.org/e-lib/browse.cfm?elib=22075
-It provides plans and instructions for building your own headphones. The design is optimized for use with virtual and mixed reality, but also works great for normal listening to music. The headphones are 3D printable and therefore easy to build and also repair.
+This project is about DIY 3D-printable headphones wich are designed to be used in combination with signal processing, either with binaural convolution or just a simple eq. 
+The Design is kept very simple and requires only 5 (+2) printed parts in total. As a headphone driver, the well known HPD-50N25PR00-32 by Peerless was chosen.
+Since they are acoustically very transparent, they are not only nice open back headphones but also perfectly suited for AR applications. 
+If Bass reproduction is more important than transparency, felt pads, acting like additional masses, can be put in front of the driver.
+
+This repository relates to the free-acces paper "Ultralight circumaural open headphone", which was presented at the Audio Engineering Society Converence in May 2023 in Espoo, Finnland.
+The paper is available at https://www.researchgate.net/publication/371379200_Ultralight_circumaural_open_headphones
+The development process and measurements are well documented.
+
+Plans and instructions to build them on your own are found below or will be added soon.
 
 ## Background
 
-This repository relates to the AES paper "ultralight circumaural open headphones", which documents the development and evaluation of acoustically transparent headphones.
-The main research question was "What could headphones look like if the benefits of equalization were considered in the development process?". In addition, since the work was intended to be a freely accessible DIY project, 3D printing was chosen as the manufacturing method to ensure feasibility and repairability.
+The main idea of this project was what headphones could look like, if the benefits of equalization were considered in the development process?. In addition, since the work was intended to be a freely accessible DIY project, 3D printing was chosen as the manufacturing method to ensure feasibility and repairability.
 The resulted hardware design goals emerged as: sufficiently strong reproduction capabilities at low frequencies, resilience to additional boost for subsequent equalization, absence of acoustic reflections and resonances influence the frequency response.
 
 The resulting headphones, whose structure is based on bionic design, are ultralight, circumaural, and acoustically transparent, making them perfect for use in AR, but also for other applications. 
@@ -18,8 +25,8 @@ The resulting headphones, whose structure is based on bionic design, are ultrali
 ## Features
 
 - 3D printable design
-- Optimized for virtual and mixed reality
-- Great for listening to music
+- Optimized for mixed and virtual reality
+- Also great for listening to music
 - Convertable for different needs (hear-through vs bass reproduction capabilities)
 
 ## Getting Started
